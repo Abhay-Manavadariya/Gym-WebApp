@@ -1,6 +1,7 @@
 # Gym Web Application
 
-[Live site](https://gym-webapplication.vercel.app/).
+#[Live site](https://gym-webapplication.vercel.app/).
+
 ![Web Application Preview](./src/assets/app.jpg)
 
 ## Available Scripts
